@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Queztech 👋</h1>
+<h1 align="center">Hi, I'm Atakan K. 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · Computer Vision (CNN) · SEO / GEO / AEO</b><br/>
+  <a href="https://queztech.com">Queztech</a> · Web Design student · Istanbul, Türkiye<br/>
   I build fast, search-visible web apps, and I'm going deep into AI image processing.
 </p>
 
