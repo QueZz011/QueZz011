@@ -2,8 +2,9 @@
 
 <p align="center">
   <b>AI · Computer Vision (CNN) · Python</b><br/>
-  Web Design student specializing in AI image processing and AI agents, with a full-stack and search-visibility background.<br/>
-  📍 Istanbul, Türkiye
+  Web Design student specializing in AI image processing and model training, with a full-stack and search-visibility background.<br/>
+  📍 Istanbul, Türkiye<br/>
+  💼 Open to internships / junior roles
 </p>
 
 <p align="center">
@@ -16,12 +17,12 @@
 ## 🧠 AI & Computer Vision (my main focus)
 
 - **Image processing with CNNs:** building and training convolutional neural networks for image classification and vision tasks.
-- **AI agents:** designing, training and orchestrating LLM-based agents and tool-using workflows.
+- **Model training & fine-tuning:** training and fine-tuning models on custom data, then evaluating and improving them.
 - **Python for ML:** data preparation, model training and evaluation, and turning models into usable backends and APIs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-CNN-5C3EE8?style=flat)
-![AI Agents](https://img.shields.io/badge/AI-Agents-111?style=flat)
+![Fine-tuning](https://img.shields.io/badge/Model-Fine--tuning-111?style=flat)
 ![Backend](https://img.shields.io/badge/Backend-APIs-2E7D32?style=flat)
 
 ## 🌐 Web Development
