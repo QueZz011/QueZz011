@@ -3,6 +3,7 @@
 <p align="center">
   <b>AI · Computer Vision (CNN) · Python</b><br/>
   Web Design student specializing in AI image processing and model training, with a full-stack and search-visibility background.<br/>
+  🚀 Founder of <a href="https://queztech.com">Queztech</a> (web studio, since 2025)<br/>
   📍 Istanbul, Türkiye<br/>
   💼 Open to internships / junior roles
 </p>
