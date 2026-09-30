@@ -45,12 +45,6 @@ I design sites so they get found by search engines *and* cited by AI answer engi
 | **AEO** | Win direct answers / featured snippets | Question-led content structure, concise answer blocks, FAQ and HowTo structured data |
 | **GEO** | Get cited by AI assistants (ChatGPT, Gemini, Perplexity…) | Clear entity definitions, JSON-LD schema, crawlable content, `llms.txt`, authoritative and quotable copy |
 
-## 📂 Featured projects
-
-- [**veyro-landing-page**](https://github.com/QueZz011/veyro-landing-page): landing page (HTML).
-- [**Kirandag--forklift**](https://github.com/QueZz011/Kirandag--forklift): business website (HTML).
-- [**ersinprojet**](https://github.com/QueZz011/ersinprojet): client project.
-
 ## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atakan_Koçoğlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakan-k-3b5563362/)
